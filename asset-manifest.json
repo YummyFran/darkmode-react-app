@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/ReactPractice1/static/css/main.8f1c4932.css",
-    "main.js": "/ReactPractice1/static/js/main.d69d04c1.js",
-    "static/media/reactjs-icon.svg": "/ReactPractice1/static/media/reactjs-icon.6c1d44b8c59f0f72ff199a54ceed774c.svg",
-    "index.html": "/ReactPractice1/index.html",
-    "main.8f1c4932.css.map": "/ReactPractice1/static/css/main.8f1c4932.css.map",
-    "main.d69d04c1.js.map": "/ReactPractice1/static/js/main.d69d04c1.js.map"
+    "main.css": "/darkmode-react-app/static/css/main.8f1c4932.css",
+    "main.js": "/darkmode-react-app/static/js/main.bb1c455b.js",
+    "static/media/reactjs-icon.svg": "/darkmode-react-app/static/media/reactjs-icon.6c1d44b8c59f0f72ff199a54ceed774c.svg",
+    "index.html": "/darkmode-react-app/index.html",
+    "main.8f1c4932.css.map": "/darkmode-react-app/static/css/main.8f1c4932.css.map",
+    "main.bb1c455b.js.map": "/darkmode-react-app/static/js/main.bb1c455b.js.map"
   },
   "entrypoints": [
     "static/css/main.8f1c4932.css",
-    "static/js/main.d69d04c1.js"
+    "static/js/main.bb1c455b.js"
   ]
 }
